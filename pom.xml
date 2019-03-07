@@ -19,8 +19,6 @@
         <fastjson.version>1.2.28</fastjson.version>
     </properties>
 
-
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
